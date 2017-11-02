@@ -1,5 +1,5 @@
-This package provide methods for controlling GPIO pins, I2C and SPI buses on
-OrangePI board with Allwinner H5 and 40 pin GPIO.
+This package provide methods for controlling GPIO pins, I2C and SPI buses on :
+- OrangePI PC2
 
 It's a fork of the package written for A20-OLinuXino-MICRO by Stefan MAVRODIEV
 from OLIMEX - https://www.olimex.com/
